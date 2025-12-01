@@ -1,5 +1,5 @@
 ---
 chartRegistry: https://crowdsecurity.github.io/helm-charts
 chartName: crowdsec
-chartVersion: 0.20.1
+chartVersion: 0.21.0
 artifactName: crowdsec
