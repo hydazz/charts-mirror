@@ -1,0 +1,5 @@
+---
+chartRegistry: https://helm.mariadb.com/mariadb-operator
+chartName: mariadb-operator
+chartVersion: 25.10.4
+artifactName: mariadb-operator

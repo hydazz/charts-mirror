@@ -1,5 +1,0 @@
----
-chartRegistry: https://rocm.github.io/gpu-operator
-chartName: gpu-operator-charts
-chartVersion: v1.4.1
-artifactName: amd-gpu-operator

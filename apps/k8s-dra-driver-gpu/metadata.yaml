@@ -1,0 +1,4 @@
+chartRegistry: https://helm.ngc.nvidia.com/nvidia
+chartName: nvidia-dra-driver-gpu
+chartVersion: 25.8.1
+artifactName: nvidia-dra-driver-gpu
