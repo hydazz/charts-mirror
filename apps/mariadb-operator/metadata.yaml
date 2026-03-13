@@ -1,5 +1,5 @@
 ---
 chartRegistry: https://helm.mariadb.com/mariadb-operator
 chartName: mariadb-operator
-chartVersion: 25.10.4
+chartVersion: 26.3.0
 artifactName: mariadb-operator
